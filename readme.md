@@ -7,7 +7,8 @@ your friends will guess your drawn picture.
 Sketcharama was a long time live running and closed source.
 ## How do I use it?
 Point your webserver to the root folder and activate PHP.
-Go into en/server and start the server via  
+Go into en/server, install and start the server via  
+`npm i`  
 `node index.js`  
 
 **IMPORTANT: Please disallow by webserver config to view the index.js of the server.**
