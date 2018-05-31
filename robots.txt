@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /pub/
+Disallow: /.git/
+Disallow: /de/game.php
+Disallow: /de/pub/
+Disallow: /en/pub/
+Disallow: /en/game.php
+Disallow: /de/server/
+Disallow: /en/server/
