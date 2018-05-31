@@ -1,0 +1,10 @@
+{
+	"The word of the round was %s.": "The word of the round was %s.",
+  "Game over, the next game begins shortly!": "Game over, the next game begins shortly!",
+  "stats": "%s. %s",
+  "%s is drawing!": "%s is drawing!",
+  "The drawer is not allowed to chat!": "The drawer is not allowed to chat!",
+  "%s skipped the round!": "%s skipped the round!",
+  "%s will kick the player %s.": "%s wants to kick the player %s.",
+  "The player %s was kicked.": "The player %s was kicked."
+}
