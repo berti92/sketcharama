@@ -10,6 +10,11 @@ Point your webserver to the root folder and activate PHP.
 Go into en/server, install and start the server via  
 `npm i`  
 `node index.js`  
+## Docker installation
+cd into project <br>
+`docker build -t sketcharama .`   <br>
+`docker run -p 80:80 -p8001:8001 sketcharama` <br>
+Now you are able to play at http://127.0.0.1/en/lobby.php
 
 **IMPORTANT: Please disallow by webserver config to view the index.js of the server.**
 ## FAQ
