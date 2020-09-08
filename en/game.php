@@ -25,7 +25,7 @@
   <link     href="/pub/sweetalert.min.css" rel="stylesheet">
   <script src="/pub/jquery.min.js"></script>
   <script   src="/pub/sweetalert.min.js"></script>
-  <script   src="server/node_modules/socket.io/node_modules/socket.io-client/socket.io.js"></script>
+  <script   src="server/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.js"></script>
   <script   type="text/javascript" src="pub/locales/en.json"></script>
   <script   src="pub/application.js"></script>
   <meta property="og:title" content="Sketcharama - the free multiplayer browsergame"/>
