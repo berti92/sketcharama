@@ -6,7 +6,7 @@ Sketcharama is a multiplayer online game, where you draw a word and other users 
 your friends will guess your drawn picture.  
 Sketcharama was a long time live running and closed source.  
 Have a look:  
-![gif which shows the function][show_function.gif]
+![gif which shows the function](show_function.gif)
 ## How do I use it?
 Point your webserver to the root folder and activate PHP.
 Go into en/server, install and start the server via  
